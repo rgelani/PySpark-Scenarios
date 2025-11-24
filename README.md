@@ -4,7 +4,7 @@ This repository contains practical examples of using PySpark in real-world scena
 
 ## Scenarios
 
-### 3. Incremental Upsert for Product Catalog Updates
+### 1. Incremental Upsert for Product Catalog Updates
 A retail company receives daily updates to its product catalog, including new items, price changes, and discontinued products. Instead of replacing the entire catalog or simply adding new records, they need to upsert the incoming data. This means updating existing products with the latest information and inserting new ones so the catalog stays accurate and up to date in real time.
 
 ### 2. Incremental Data Load from Azure Data Lake
